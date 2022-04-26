@@ -1,0 +1,4 @@
+GIT consist of three stages in git 
+They are soure area--git add filename
+working area--git commit -m "cmt msg"
+local repository--.git folder is created here
